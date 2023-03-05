@@ -5,7 +5,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cjasper1991/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](http://github.com/cjasper1991/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/cjasper1991/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cjasper1991/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring  Active Directory within Azure VMs](https://github.com/cjasper1991/configure-ad)
@@ -18,4 +18,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]: https://linkedin.com/in/chris-jasper-04060577
+[linkedin]: www.linkedin.com/in/cjasper1991
