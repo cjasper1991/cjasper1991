@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/chris-jasper-04060577">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/cjasper1991">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
