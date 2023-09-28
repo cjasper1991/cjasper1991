@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring  Active Directory within Azure VMs](https://github.com/cjasper1991/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cjasper1991/azure-network-protocols)
-  - Command Lines https://github.com/cjasper1991/CommandLines
+    
 
 <h2>🤳Connect with me:</h2>
 
