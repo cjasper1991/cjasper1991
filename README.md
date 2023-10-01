@@ -13,7 +13,7 @@
  - <b>Command Lines</b>
  
     - [Command Line Prompts](https://github.com/cjasper1991/CommandLines)
-    - [Command Line Prompts Pt.2](https://github.com/cjasper1991/CommandLinePromptsPart.2)
+    - [Command Line Prompts Pt.2](https://github.com/cjasper1991/Command-Line-Prompts-Part.2)
     
 
 <h2>🤳Connect with me:</h2>
